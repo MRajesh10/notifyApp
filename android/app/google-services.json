@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39250671439",
+    "firebase_url": "https://kuchkitho1.firebaseio.com",
+    "project_id": "kuchkitho1",
+    "storage_bucket": "kuchkitho1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39250671439:android:88f08c233bf2a37536373a",
+        "android_client_info": {
+          "package_name": "com.notifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39250671439-qabkitds4vdkuo2pr63t6ucc5hk6nr6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNjnHDsQCjwG_BiKe-t7OZJs8serqimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39250671439-qabkitds4vdkuo2pr63t6ucc5hk6nr6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

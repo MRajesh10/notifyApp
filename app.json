@@ -1,0 +1,17 @@
+{
+  "name": "notifyApp",
+  "displayName": "notifyApp",
+  "expo": {
+    "name": "notifyApp",
+    "slug": "notifyApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
